@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/designPattern.iml" filepath="$PROJECT_DIR$/designPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/observerPattern/observerPattern.iml" filepath="$PROJECT_DIR$/observerPattern/observerPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singletonPattern/singletonPattern.iml" filepath="$PROJECT_DIR$/singletonPattern/singletonPattern.iml" />
     </modules>
   </component>
 </project>
